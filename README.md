@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizwansammo
+- 👋 Hi, I’m @rizwansammo from BRAC University
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Python for Data Science and Machine Learning
 - 📫 In any case Email me on mrizwan.sammo@gmail.com
