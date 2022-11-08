@@ -4,7 +4,7 @@
 ##### Zero Byte Code
 ![Profile views](https://gpvc.arturio.dev/rizwansammo)
 
-📫 Mail Me: mrizwan.sammo@gmail.com 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <h3 align="left">Languages and Tools:</h3>
