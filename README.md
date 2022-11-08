@@ -64,7 +64,7 @@
  
 ![GitHub metrics](https://metrics.lecoq.io/rizwansammo)  
 
-<!--[Rizwan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rizwansammo&theme=xcode)>
+<!--[Rizwan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rizwansammo&theme=xcode)> 
 
 
   
