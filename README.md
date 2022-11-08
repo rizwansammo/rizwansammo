@@ -4,9 +4,7 @@
 ##### Zero Byte Code
 ![Profile views](https://gpvc.arturio.dev/rizwansammo)
 
-- 🔭 I’m currently working on Zero Byte Code 
-- 🌱 I’m currently learning Python For Data Science 
-- 📫 How to reach me: mrizwan.sammo@gmail.com 
+- 📫 Mail Me: mrizwan.sammo@gmail.com 
 
 ## Connect with me  
 <div align="center">
