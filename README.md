@@ -4,7 +4,7 @@
 ##### Zero Byte Code
 ![Profile views](https://gpvc.arturio.dev/rizwansammo)
 
-- 📫 Mail Me: mrizwan.sammo@gmail.com 
+📫 Mail Me: mrizwan.sammo@gmail.com 
 
 ## Connect with me  
 <div align="center">
