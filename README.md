@@ -1,6 +1,8 @@
+![Zero Byte Code](https://i.ibb.co/s2K3CRL/banner-bg.webp)
+
 ### Hi there 👋, Rizwan Sammo
 #### Zero Byte Code
-![Zero Byte Code](https://i.ibb.co/s2K3CRL/banner-bg.webp)
+
 
 
 Skills: Python / Django / Linux System Administration / C++ 
