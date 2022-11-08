@@ -41,7 +41,7 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo)](https://github.com/ryo-ma/github-profile-trophy)
 
