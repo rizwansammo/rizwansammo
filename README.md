@@ -46,7 +46,6 @@
 </br>
 <p align="left"> <h3 align="left">Languages and Tools:</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
