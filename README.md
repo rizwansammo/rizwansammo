@@ -2,6 +2,7 @@
 
 ## Rizwan Sammo
 ##### Zero Byte Code
+![Profile views](https://gpvc.arturio.dev/rizwansammo)
 
 - 🔭 I’m currently working on Zero Byte Code 
 - 🌱 I’m currently learning Python For Data Science 
@@ -22,4 +23,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwansammo)  
 
-![Profile views](https://gpvc.arturio.dev/rizwansammo)  
+  
