@@ -1,5 +1,4 @@
 ![Zero Byte Code](https://i.ibb.co/s2K3CRL/banner-bg.webp)
-<hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
 ## Rizwan Sammo
 ##### Zero Byte Code
 ![Profile views](https://gpvc.arturio.dev/rizwansammo)
