@@ -4,7 +4,11 @@
 ![Profile views](https://gpvc.arturio.dev/rizwansammo)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
 <p align="left"> <h3 align="left">Languages and Tools:</h3>
