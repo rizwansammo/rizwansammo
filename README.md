@@ -59,9 +59,7 @@
 
 <h2>📊 Stats</h2>
 
-<p align="center">
-<a href="https://github.com/rizwansammo/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rizwansammo&theme=gotham"/>
-</p>
+<p href="https://github.com/rizwansammo/rizwansammo"><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansammo&show_icons=true&theme=gotham"/></p>
 
 
 
