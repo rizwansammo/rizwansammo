@@ -51,15 +51,19 @@
 </br>
 
 
-<hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
-<details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/rizwansammo/rizwansammo"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwansammo&theme=highcontrast"/></a>
-    <a href="https://github.com/rizwansammo/rizwansammo"><img alt="Rizwan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansammo&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/rizwansammo/rizwansammo"><img alt="Rizwan's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
-  
-</details> 
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rizwansammo&theme=gotham" alt="rizwansammo" />
+</p>
+
+<h2>📊 Stats</h2>
+
+<p align="center">
+<a href="https://github.com/marufmurtuza/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rizwansammo&theme=gotham"/>
+</p>
+
+
 
 <hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
 
