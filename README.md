@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)" title="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)"/>](https://rizwansammo.me/)
+[<img src="https://raw.githubusercontent.com/rizwansammo/rizwansammo/master/intro.gif" alt="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)" title="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)"/>](https://rizwansammo.me/)
 
 
 <div align="center">
