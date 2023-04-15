@@ -70,10 +70,6 @@
 
 
 
-[![Amogh's github activity graph]( align="center" https://activity-graph.herokuapp.com/graph?username=rizwansammo&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-
-
 
 
 
