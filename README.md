@@ -1,7 +1,4 @@
-![Zero Byte Code](https://i.ibb.co/s2K3CRL/banner-bg.webp)
-## Rizwan Sammo
-##### Zero Byte Code
-![Profile views](https://gpvc.arturio.dev/rizwansammo)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)" title="👋 Hi there! I'm (Rizwan|Sammo)|https://rizwansammo.me)"/>](https://rizwansammo.me/)
 
 
 <div align="center">
