@@ -1,9 +1,4 @@
-[![image](https://www.linkpicture.com/q/Untitled_214.png)](https://www.linkpicture.com/view.php?img=LPic643af3a6541b7793532109)
-<div align="center">
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 <h2></h2>
 <p align="center">
