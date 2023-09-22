@@ -1,6 +1,8 @@
 
+<h1 align="center">Hi 👋, I'm Rizwan Sammo</h1>
+<h3 align="center">Studying Computer Science and Engineering at BRAC University</h3>
 
-<h2></h2>
+<h1><h1/>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
