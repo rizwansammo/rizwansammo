@@ -38,7 +38,7 @@
 <a href="https://hashnode.com/@rizwansammo" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/rizwansammo" target="_blank">
+<a href="https://www.facebook.com/r.rizwansammo" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/rizwansammo" target="_blank">
