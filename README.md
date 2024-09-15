@@ -1,12 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Rizwan Sammo</h1>
-<h3 align="center">Studying Computer Science and Engineering at BRAC University</h3>
 
-<h2>🔥 Streak </h2>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwansammo&theme=gotham&hide_border=false" alt="rizwansammo" />
-</p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=4000&pause=1000&width=435&lines=As-salamu+alaykum+%F0%9F%91%8B;+I+am+Rizwan+Sammo" alt="Typing SVG" /></a></h1>
 
 <h2>📊 Stats</h2>
 
