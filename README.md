@@ -58,6 +58,8 @@
 <a href="https://hashnode.com/@rizwansammo" target="_blank"><img src="https://img.shields.io/badge/Hashnode-282C34?logo=hashnode&logoColor=2962FF" alt="Hashnode logo" title="Hashnode" height="25" /></a>
 <a href="https://www.facebook.com/r.rizwansammo" target="_blank"><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=1877F2" alt="Facebook logo" title="Facebook" height="25" /></a>
 <a href="https://codepen.com/rizwansammo" target="_blank"><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=white" alt="CodePen logo" title="CodePen" height="25" /></a>
+<a href="https://leetcode.com/u/rizwan_bracu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-282C34?logo=leetcode&logoColor=white" alt="LeetCode logo" title="LeetCode" height="25" /></a>
+
 
 </div>
 
