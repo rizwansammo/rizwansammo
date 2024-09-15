@@ -2,14 +2,37 @@
 <h1 align="center">Hi 👋, I'm Rizwan Sammo</h1>
 <h3 align="center">Studying Computer Science and Engineering at BRAC University</h3>
 
-<h1><h1/>
+<h2>🔥 Streak </h2>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwansammo&theme=gotham&hide_border=false" alt="rizwansammo" />
+</p>
+
+<h2>📊 Stats</h2>
+
+<p align="center" href="https://github.com/rizwansammo/rizwansammo"><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansammo&show_icons=true&theme=gotham"/></p>
+
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
-<hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
-<p align="left"> <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjXp4zSyxD21A92j7yK9KjYkzLRyq-ZkAug&usqp=CAU" alt="flask" width="40" height="40"/> </a> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="rust" width="40" height="40"/> </a>  </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+
+## 🔧 Languages & Tools
+
+<div align="center">
+  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)
+
+</div>
+
 
 <hr class="solid" hr.solid {border-top: 3px solid #bbb;}>
 <h3>Find Me Here:</h3> 
@@ -48,18 +71,13 @@
 </br>
 
 
-<h2>🔥 Streak Stats</h2>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwansammo&theme=gotham&hide_border=false" alt="rizwansammo" />
-</p>
-
-<h2>📊 Stats</h2>
-
-<p align="center" href="https://github.com/rizwansammo/rizwansammo"><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansammo&show_icons=true&theme=gotham"/></p>
-
-
-
+# 🔭Actions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
