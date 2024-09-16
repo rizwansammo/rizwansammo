@@ -18,8 +18,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" />
@@ -39,6 +37,10 @@
 <img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark logo" title="Wireshark" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=white" alt="Metasploit logo" title="Metasploit" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
 
 
 </div>
