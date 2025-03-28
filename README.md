@@ -16,11 +16,15 @@
 ## 🔧 Languages & Tools
 
 <div align="center">
-<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green" alt="Django logo" title="Django" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI logo" title="FastAPI" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" />
 &nbsp;
@@ -28,7 +32,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/IntelliJ-282C34?logo=intellij-idea&logoColor=white" alt="IntelliJ logo" title="IntelliJ" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" />
+<img src="https://img.shields.io/badge/Android_Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="25" />
 &nbsp;
@@ -38,9 +46,28 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=white" alt="Metasploit logo" title="Metasploit" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-282C34?logo=github-actions&logoColor=2088FF" alt="GitHub Actions logo" title="GitHub Actions" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Cloud logo" title="Azure Cloud" height="18" />
+&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform&logoColor=7B42BC" alt="Terraform logo" title="Terraform" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible&logoColor=EE0000" alt="Ansible logo" title="Ansible" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=E6522C" alt="Prometheus logo" title="Prometheus" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Grafana-282C34?logo=grafana&logoColor=F46800" alt="Grafana logo" title="Grafana" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" />
+&nbsp;
 
 
 </div>
