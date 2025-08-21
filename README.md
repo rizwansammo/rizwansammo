@@ -4,7 +4,7 @@
 
 <h2>Streak 🔥</h2>
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gold-gamma.vercel.app?user=rizwansammo&theme=gotham" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://rizwansammo-push-streak.vercel.app?user=rizwansammo&theme=gotham" alt="GitHub Streak" /></a>
 </p>
 
 <h2>📊 Stats</h2>
