@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Rizwan</h1>
 
-<h3 align="center"> 💻 IT Engineer | 🌐 Django & Python Learner | ☁️ M365 & Entra Specialist </h3>
+<h3 align="center"> 🎓 CSE Student @ BRAC University | 💻 Python & Django Learner  </h3>
 
 <h2>Streak 🔥</h2>
 <p align="center">
