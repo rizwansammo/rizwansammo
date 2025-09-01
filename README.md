@@ -1,6 +1,6 @@
+<h1 align="center">👋 Hey there, I'm Rizwan</h1>
 
-
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=29F70C&width=435&lines=As-salamu+alaykum+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" /></a></h1>
+<h3 align="center"> 💻 IT Engineer | 🌐 Django & Python Learner | ☁️ M365 & Entra Specialist </h3>
 
 <h2>Streak 🔥</h2>
 <p align="center">
