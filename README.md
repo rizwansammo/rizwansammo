@@ -107,12 +107,13 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
-<h2>🏅 Problem Solving</h2>
+<h2>🏅 LeetCode</h2>
 <p align="center">
 <a href="https://leetcode.com/u/rizwan_bracu/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/rizwan_bracu?theme=dark&font=Noto%20Sans%20Tirhuta&ext=activity" 
        alt="LeetCode Stats" height="250px">
 </a> 
+
 
 
   
