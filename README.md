@@ -158,6 +158,9 @@
        alt="LeetCode Stats" height="250px">
 </a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
   
