@@ -136,15 +136,6 @@
 
 </div>
 
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=rizwansammo&theme=react-dark&hide_border=true&area=true)](https://github.com/rizwansammo)
-
-
-# 🐍 My Pet Python
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
 
 <h2>📊 Languages</h2>
 <p align="center">
@@ -158,9 +149,10 @@
        alt="LeetCode Stats" height="250px">
 </a> 
 
+![Rizwan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizwansammo&theme=react-dark)
+
+# 🏆 Classic Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
   
