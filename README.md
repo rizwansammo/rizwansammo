@@ -8,7 +8,7 @@
 </p>
 
 <h2>📊 Stats</h2>
-<p align="center" href="https://github.com/rizwansammo/rizwansammo"><img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rizwansammo&show_icons=true&theme=gotham"/></p>
+<p align="center" href="https://github.com/rizwansammo/rizwansammo"><img alt="My GitHub Stats" src="https://rizwansammo-stat.vercel.app/api?username=rizwansammo&show_icons=true&theme=gotham"/></p>
 
 
 <div align="center">
