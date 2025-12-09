@@ -139,7 +139,7 @@
 
 <h2>📊 Languages</h2>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact" /></a>
+  <a href="https://rizwansammo-stat.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://rizwansammo-stat.vercel.app/api/top-langs/?username=rizwansammo&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
 <h2>🏅 LeetCode</h2>
@@ -151,8 +151,7 @@
 
 ![Rizwan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizwansammo&theme=react-dark)
 
-# 🏆 Classic Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=rizwansammo&theme=onedark&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
   
